@@ -1,0 +1,10 @@
+body{scroll-behavior:smooth}
+.glass-panel{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.tilt-card{transition:transform .2s ease,box-shadow .2s ease;will-change:transform}
+.tilt-card:hover{transform:translateY(-2px)}
+.ripple{position:absolute;transform:translate(-50%,-50%);width:12px;height:12px;background:radial-gradient(circle,rgba(255,255,255,.6) 0,rgba(255,255,255,.2) 40%,transparent 70%);border-radius:9999px;pointer-events:none;animation:ripple .6s ease-out forwards}
+@keyframes ripple{0%{opacity:.7;transform:translate(-50%,-50%) scale(.2)}70%{opacity:.3}100%{opacity:0;transform:translate(-50%,-50%) scale(4)}}
+.animate-slide-in{transform:translateY(16px)}
+.parallax-bg{will-change:transform}
+.shadow-glow{box-shadow:0 0 20px rgba(0,180,255,.3)}
+.shadow-glow-lg{box-shadow:0 0 40px rgba(0,180,255,.5)}
