@@ -69,6 +69,15 @@ The landing page includes the following main sections:
    # Right-click index.html and select "Open with Live Server"
    ```
 
+## 📸 Preview
+
+<img width="1755" height="981" alt="Screenshot 2026-03-04 152035" src="https://github.com/user-attachments/assets/ef5340e6-e288-453c-a518-bcab705b89c0" />
+<img width="1715" height="864" alt="Screenshot 2026-03-04 151540" src="https://github.com/user-attachments/assets/7017a00d-d230-4632-83c8-9375d832f455" />
+<img width="1716" height="582" alt="Screenshot 2026-03-04 151659" src="https://github.com/user-attachments/assets/cd89e0e7-c662-4153-9e20-667d6376d91e" />
+<img width="1650" height="540" alt="Screenshot 2026-03-04 151724" src="https://github.com/user-attachments/assets/2ae9daf8-f480-4591-a284-b69443527bcd" />
+<img width="1646" height="618" alt="Screenshot 2026-03-04 151821" src="https://github.com/user-attachments/assets/9bd9703f-9bf9-4e75-aef3-04214dd6ffe1" />
+<img width="1898" height="489" alt="Screenshot 2026-03-04 151856" src="https://github.com/user-attachments/assets/9a81985b-f4a5-4d59-ad56-0ca71c65611b" />
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
